@@ -16,9 +16,9 @@ This milestone focuses on analyzing businesses in the state of Arizona using the
    - Ensure that the following are installed; Java Development Kit (JDK), Hadoop, Spark, and PySpark.
    - **Dependencies**:
         `pip install numpy`
-        `pip install pandas`
-        `pip install matplotlib`
-        `pip install pyspark` 
+        `pandas`
+        `matplotlib`
+        `pyspark` 
 
 2. **Run the Analysis**:
    - Open `Spark-Hadoop-Project1.ipynb` in Jupyter Notebook.
