@@ -5,10 +5,10 @@ This milestone focuses on analyzing businesses in the state of Arizona using the
 1. Analyze businesses based on their attributes, reviews, ratings, locations, and other relevant data.
 3. Explore a specific category of businesses to gain detailed insights.
 
-## Highlights
+## Highlights and Deliverables
 - Filtered dataset for Arizona businesses.
 - Converted JSON files to a Parquet format for easier analysis.
-- Analysis results presented in a concise report with visualizations.
+- Analysis results with visualizations.
 - Spark SQL queries used for analysis.
 
 ## Steps to Run the Project
